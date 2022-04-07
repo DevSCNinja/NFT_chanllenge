@@ -1,3 +1,8 @@
+# Challenge Implementation
+See YourCollectibles tab to check the tokens you owned(Junior Part).
+See Ape Owner Access tab to check for a special access(Intermediate - Senior Part).
+See Ape Owner Access tab to check mutation of token(Expert Solidity / web3 Part).
+
 # Simple ERC-1155 NFT Example
 Full documentation andd tutorial here: https://docs.scaffoldeth.io/scaffold-eth/examples-and-tutorials/simple-erc-1155-nft
 
